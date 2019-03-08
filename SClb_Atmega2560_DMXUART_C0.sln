@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SClb_Atmega2560_DMXUART_C0", "SClb_Atmega2560_DMXUART_C0.vcxitems", "{60415FBB-B182-4FBE-9218-D76D5C06A252}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {172EB69E-829B-418F-9BB1-B6F4BF4AD68E}
+	EndGlobalSection
+EndGlobal
